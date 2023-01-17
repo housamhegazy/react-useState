@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <div className="card">
-        <h2>my number is {count}</h2>
+        <h2>my new number is {count}</h2>
         <button onClick={counter}> increase counter </button>
       </div>
     </div>
